@@ -17,3 +17,7 @@ body {
 .navbar navbar-fixed-top{
 	background-color:#00FF00
 }
+
+.alert {
+	margin-top:10px;
+}
